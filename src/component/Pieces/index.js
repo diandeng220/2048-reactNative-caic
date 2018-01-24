@@ -11,7 +11,7 @@ import {
   TouchableWithoutFeedback
 } from 'react-native';
 
-export default class Pieces extends Component<{}> {
+export default class Pieces extends Component{
   constructor(props){
     super(props);
   }

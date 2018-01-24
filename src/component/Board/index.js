@@ -13,7 +13,7 @@ import {
 import Pieces from '../Pieces';
 
 
-export default class Board extends Component<{}> {
+export default class Board extends Component {
   constructor(props){
     super(props);
   }
